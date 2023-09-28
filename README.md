@@ -1,6 +1,7 @@
 ### Hi there 👋
-I am **Chahita Verma
-**
+I am Chahita Verma
+
+
 <!--
 **chahitaVerma/chahitaverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
